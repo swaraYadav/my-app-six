@@ -1,0 +1,28 @@
+.body{
+  display:flex;
+}
+.link{
+  padding:10px;
+  background-color: grey;
+}
+a{
+  padding:10px;
+  text-decoration: none;
+  color:white;
+}
+.side{
+  width:30%;
+  border:1px solid grey;
+  height:700px;
+}
+.side button{
+  padding:10px;
+  background-color: blue;
+  border-radius: 4px;
+  color:white;
+  border:1px blue;
+  width:100px;
+}
+.side{
+  padding: 0 40px;
+}
